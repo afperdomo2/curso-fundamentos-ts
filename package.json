@@ -9,9 +9,11 @@
   "author": "Andrés Felipe Perdomo",
   "license": "MIT",
   "devDependencies": {
+    "@types/lodash": "^4.14.195",
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
   }
 }
